@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingBlogs.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazingBlogs.isrgeocx32.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\aos.css"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\bootstrap-toc.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap-toc.css"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\prism.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\prism.css"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\1.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\10.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\2.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\3.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\5.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\9.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\avatar.png"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\avatar2.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\blog4.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\blog5.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\blog6.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\blog8.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\blog9.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\coffee.png",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\coffee.png"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\demo1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\demo1.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\home.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\home.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\intro.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\intro.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\sal.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\sal.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\demo\\slide3.jpg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_QA_engineers_dg5p.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\sample\\undraw_QA_engineers_dg5p.svg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_having_fun_iais.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sample\\undraw_having_fun_iais.png"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_off_road_9oae.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\sample\\undraw_off_road_9oae.svg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_vehicle_sale_v7fm.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\sample\\undraw_vehicle_sale_v7fm.svg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_working_late_pukg.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\sample\\undraw_working_late_pukg.svg"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-article.png",
+      "PackagePath": "staticwebassets\\assets\\img\\screenshot-mundana-article.png"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-category.png",
+      "PackagePath": "staticwebassets\\assets\\img\\screenshot-mundana-category.png"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\screenshot-mundana.png"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\functions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\functions.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\aos.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap-toc.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap-toc.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\prism.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\prism.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\share.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\share.js"
+    },
+    {
+      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazingBlogs.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazingBlogs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazingBlogs.props",
+      "PackagePath": "build\\BlazingBlogs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazingBlogs.props",
+      "PackagePath": "buildMultiTargeting\\BlazingBlogs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazingBlogs.props",
+      "PackagePath": "buildTransitive\\BlazingBlogs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

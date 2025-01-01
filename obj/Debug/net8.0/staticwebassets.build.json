@@ -1,0 +1,4863 @@
+{
+  "Version": 1,
+  "Hash": "U8OTAjbLxTARP0qKva7ynyIT9He7RSYrmcHFJr7mqnU=",
+  "Source": "BlazingBlogs",
+  "BasePath": "_content/BlazingBlogs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazingBlogs\\wwwroot",
+      "Source": "BlazingBlogs",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingBlogs.styles.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "BlazingBlogs#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "isrgeocx32",
+      "Integrity": "sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingBlogs.styles.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingBlogs.bundle.scp.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "BlazingBlogs#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "isrgeocx32",
+      "Integrity": "sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingBlogs.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\app.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/css/main#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "meld17oor7",
+      "Integrity": "nkrU5zJcfh1Awrc5vWkUuUy3znQeS3HsvWBoluz9F5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\main.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css.map",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/css/main.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "99slz9tcq9",
+      "Integrity": "TRmudTFx3+43lkb5l61NbpQSVlm/DutRe22aAdJrYWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\main.css.map"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\aos.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/css/vendor/aos#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "euiikl6nsc",
+      "Integrity": "GqiEX9BuR1rv5zPU5Vs2qS/NSHl1BJyBcjQYJ6ycwD4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\vendor\\aos.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\bootstrap-toc.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/css/vendor/bootstrap-toc#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dt79pr7mms",
+      "Integrity": "0YSfJDq3PUtXoHAs1KO1peU27wBbr5ZrOAHbQMWdIJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\vendor\\bootstrap-toc.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\prism.css",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/css/vendor/prism#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fbe2eiana2",
+      "Integrity": "+2oIWiJspFYgSzHHSn4uxO3UM3YNpoTq8RX8nSIPvnQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\vendor\\prism.css"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\1.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxlak1jxkf",
+      "Integrity": "lzWXRVAtp59XGfTOGtC7r2Z0HunEU47GJl7MEEThgMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\1.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\10.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1jxuodwc5i",
+      "Integrity": "w44+rRWaE3zN6ZtBxW+6FQRut8YinPfkB26p4SsrI18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\10.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\2.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wdt4pqfyjz",
+      "Integrity": "xD7+VC9dOPMg0KTpVx3r3k9LlCv09RMmSMKPm2ACXpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\2.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\3.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y54avfvchx",
+      "Integrity": "asFL4Ak+lFnt3irC2W9AJIiG6pSp8sT/T4IpSaf1B+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\3.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\5.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r86ixtt3nc",
+      "Integrity": "G9Xl9Fkg0iYik0m7nF8Qa3YBhET5k72Bl45ShdoBVAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\5.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\9.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7d1yhw0bg",
+      "Integrity": "6cDVuTjTIGLb1atLFyfkvUqHnoYYJWL5HxzQhZcwRaw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\9.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/avatar#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c49o14hxil",
+      "Integrity": "1DoOYTcZeSWZLRZxnPr3IuMZQzoVfLExW88oBetuNsc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\avatar.png"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar2.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/avatar2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zx72k7pe8r",
+      "Integrity": "t7TAwXCYspU3De9OQozqVWN14FgEe7WDCMJV7Cwqv+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\avatar2.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog4.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/blog4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "opui8m9wcb",
+      "Integrity": "/BtMibKV+qYTlRiQu0ElYghfysPb9WA8ywnjMuoXZbA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\blog4.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog5.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/blog5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9urtbls667",
+      "Integrity": "zy60W7krAQfebV/ZdvWqGtPVLH7IuVf9TLV/zgnI0Co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\blog5.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog6.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/blog6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "grasasq1ol",
+      "Integrity": "hMBfM5AD8DyL691mlAVft1evc3aT7eBo0uAOGP+u2Qs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\blog6.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog8.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/blog8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ca0b8uwh4r",
+      "Integrity": "NFa41X6aZYkhgnMcq26dSvEYmT55D4eontm++CE9p5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\blog8.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog9.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/blog9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l5jt4uhhh7",
+      "Integrity": "x+2Fu4AaV23UgVoCkoET8jRS4DCrzELjvnu5/BOM0Ig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\blog9.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\coffee.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/coffee#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "of4hj5ed4s",
+      "Integrity": "tHeYEPGJR2QlIhsdT2UbLHgiVwMhPXZpxWA/LptJlXA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\coffee.png"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\demo1.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/demo1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iyrh0rrnnv",
+      "Integrity": "ymPtUQkJYtItrNbqBAoxQJ98yyPBVjg05jODAC8rIno=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\demo1.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\home.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/home#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zftxqa0mbq",
+      "Integrity": "T1XZ3PRh3+wvSDiDQj1iptmmjC3WnHIw0UKaMRkO+uA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\home.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\intro.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/intro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oqzj2b245c",
+      "Integrity": "sKmirA7s6acAWwPGZYt/H+GEyia6a+698oItxTWq7ic=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\intro.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\sal.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/sal#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1zbwtwidea",
+      "Integrity": "nSEx0AMs1wJqxumJjquq0SiUsCDAqwVQXTt6Cv9yUv0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\sal.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide1.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/slide1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5e4mp15snt",
+      "Integrity": "Q5MPC2IxoROV2BbWqvSpqHQvAyALvxJ6vc9oX5IopvI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\slide1.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide2.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/slide2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5hhbdjxabb",
+      "Integrity": "ORYWBSHi/0EEclALG9FfrCXaD33N9NMNkdGzlE6WtcY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\slide2.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide3.jpg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/demo/slide3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27asc4bbn3",
+      "Integrity": "YlGomAFmEOvNBk8noobOEp3jnjdUh2D50YMt6zVHxl8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\demo\\slide3.jpg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\favicon.ico",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vkveutzh4b",
+      "Integrity": "oYaequgE4HSa9/ZdfyY6CErV61KE++QovjcL0P5Y+uw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_having_fun_iais.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/sample/undraw_having_fun_iais#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o22cic7r7c",
+      "Integrity": "gMfWQUwnFDhDOmdINx6sdrKvK+Yu4hi+fwrpXkrEdtE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\sample\\undraw_having_fun_iais.png"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_off_road_9oae.svg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/sample/undraw_off_road_9oae#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rw2u7j2gaa",
+      "Integrity": "xeJIm/L4/RPjUkhg1R0o08Mnz3nxOo5EAKLeX95oaWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\sample\\undraw_off_road_9oae.svg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_QA_engineers_dg5p.svg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/sample/undraw_QA_engineers_dg5p#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xkvmh5lyn2",
+      "Integrity": "nwFHzimJ2/vIKa65Cn83NhG03HLD2VG3Y0F8PiBCNKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\sample\\undraw_QA_engineers_dg5p.svg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_vehicle_sale_v7fm.svg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/sample/undraw_vehicle_sale_v7fm#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pjia6un6f6",
+      "Integrity": "ZWo3dcF9bAEI1i1JnNpbV4cYIimujkhQeV66IhGJNdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\sample\\undraw_vehicle_sale_v7fm.svg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_working_late_pukg.svg",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/sample/undraw_working_late_pukg#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9x1f8n1nvo",
+      "Integrity": "g7RdDLICcXWo9qku9m0+iMCtjHT81AoVF+us4mBG/0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\sample\\undraw_working_late_pukg.svg"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-article.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/screenshot-mundana-article#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4f1pbg3hjy",
+      "Integrity": "kJHPtPLPBmbV9MAhluFcErHjRBOzyQYrHnB8hIGNtQs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\screenshot-mundana-article.png"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-category.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/screenshot-mundana-category#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "moyo1fqnr4",
+      "Integrity": "ap26BhOyXbvxHqJEb/GxCjeCGYTdM8+c91mA/66/rHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\screenshot-mundana-category.png"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/img/screenshot-mundana#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o32aa2dgji",
+      "Integrity": "JIvfThk6t4FNlztIa6DJ9lgAt4Ta1Bp9Yqr65vIyL8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\screenshot-mundana.png"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\functions.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/functions#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lhi2jsp5z3",
+      "Integrity": "GX2hLSVuARkLpYtzR5etAAinBUMzPTTOsQy5/isR3/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\functions.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\aos.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/aos#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ycyol4alxi",
+      "Integrity": "8mhhK6WerRskNTu3fWZ4O8xDWv8cIr5fk8QLrDhplo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\aos.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap-toc.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/bootstrap-toc#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y91jgtce6c",
+      "Integrity": "NnEeh5hWZzoLe9zXejoKO1WVbqjmEcf2gpdyve2GSCk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\bootstrap-toc.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a8sno6uueg",
+      "Integrity": "VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\jquery.min.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ye1g148en",
+      "Integrity": "FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\jquery.min.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\popper.min.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/popper.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jics2szdot",
+      "Integrity": "pS96pU17yq+gVu4KBQJi38VpSuKN7otMrDQprzf/DWY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\prism.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/prism#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yc94h0lhp6",
+      "Integrity": "nra51JfdRc6Y65U47bZyyWbFRX90lKGWskxDK+IOBnI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\prism.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\share.js",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "assets/js/vendor/share#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9xp9rs5763",
+      "Integrity": "feZldTMvFtxE3p2O+ECP33XQ915h7ADf/hKkEht0Jpo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\vendor\\share.js"
+    },
+    {
+      "Identity": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\favicon.png",
+      "SourceId": "BlazingBlogs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\",
+      "BasePath": "_content/BlazingBlogs",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 14:40:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 14:40:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkrU5zJcfh1Awrc5vWkUuUy3znQeS3HsvWBoluz9F5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkrU5zJcfh1Awrc5vWkUuUy3znQeS3HsvWBoluz9F5Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.css.99slz9tcq9.map",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "632104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRmudTFx3+43lkb5l61NbpQSVlm/DutRe22aAdJrYWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99slz9tcq9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/main.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRmudTFx3+43lkb5l61NbpQSVlm/DutRe22aAdJrYWM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.css.map",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "632104"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRmudTFx3+43lkb5l61NbpQSVlm/DutRe22aAdJrYWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRmudTFx3+43lkb5l61NbpQSVlm/DutRe22aAdJrYWM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.meld17oor7.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "245442"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkrU5zJcfh1Awrc5vWkUuUy3znQeS3HsvWBoluz9F5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "meld17oor7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkrU5zJcfh1Awrc5vWkUuUy3znQeS3HsvWBoluz9F5Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/vendor/aos.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\aos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GqiEX9BuR1rv5zPU5Vs2qS/NSHl1BJyBcjQYJ6ycwD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GqiEX9BuR1rv5zPU5Vs2qS/NSHl1BJyBcjQYJ6ycwD4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/vendor/aos.euiikl6nsc.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\aos.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GqiEX9BuR1rv5zPU5Vs2qS/NSHl1BJyBcjQYJ6ycwD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "euiikl6nsc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/vendor/aos.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GqiEX9BuR1rv5zPU5Vs2qS/NSHl1BJyBcjQYJ6ycwD4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/vendor/bootstrap-toc.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\bootstrap-toc.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0YSfJDq3PUtXoHAs1KO1peU27wBbr5ZrOAHbQMWdIJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0YSfJDq3PUtXoHAs1KO1peU27wBbr5ZrOAHbQMWdIJs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/vendor/bootstrap-toc.dt79pr7mms.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\bootstrap-toc.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1246"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0YSfJDq3PUtXoHAs1KO1peU27wBbr5ZrOAHbQMWdIJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dt79pr7mms"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/vendor/bootstrap-toc.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0YSfJDq3PUtXoHAs1KO1peU27wBbr5ZrOAHbQMWdIJs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/vendor/prism.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\prism.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+2oIWiJspFYgSzHHSn4uxO3UM3YNpoTq8RX8nSIPvnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+2oIWiJspFYgSzHHSn4uxO3UM3YNpoTq8RX8nSIPvnQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/vendor/prism.fbe2eiana2.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\prism.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+2oIWiJspFYgSzHHSn4uxO3UM3YNpoTq8RX8nSIPvnQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fbe2eiana2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/vendor/prism.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+2oIWiJspFYgSzHHSn4uxO3UM3YNpoTq8RX8nSIPvnQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/1.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lzWXRVAtp59XGfTOGtC7r2Z0HunEU47GJl7MEEThgMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lzWXRVAtp59XGfTOGtC7r2Z0HunEU47GJl7MEEThgMQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/1.zxlak1jxkf.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141389"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lzWXRVAtp59XGfTOGtC7r2Z0HunEU47GJl7MEEThgMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxlak1jxkf"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lzWXRVAtp59XGfTOGtC7r2Z0HunEU47GJl7MEEThgMQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/10.1jxuodwc5i.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w44+rRWaE3zN6ZtBxW+6FQRut8YinPfkB26p4SsrI18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1jxuodwc5i"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w44+rRWaE3zN6ZtBxW+6FQRut8YinPfkB26p4SsrI18="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/10.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w44+rRWaE3zN6ZtBxW+6FQRut8YinPfkB26p4SsrI18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w44+rRWaE3zN6ZtBxW+6FQRut8YinPfkB26p4SsrI18="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/2.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xD7+VC9dOPMg0KTpVx3r3k9LlCv09RMmSMKPm2ACXpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xD7+VC9dOPMg0KTpVx3r3k9LlCv09RMmSMKPm2ACXpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/2.wdt4pqfyjz.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xD7+VC9dOPMg0KTpVx3r3k9LlCv09RMmSMKPm2ACXpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wdt4pqfyjz"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xD7+VC9dOPMg0KTpVx3r3k9LlCv09RMmSMKPm2ACXpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/3.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asFL4Ak+lFnt3irC2W9AJIiG6pSp8sT/T4IpSaf1B+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-asFL4Ak+lFnt3irC2W9AJIiG6pSp8sT/T4IpSaf1B+c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/3.y54avfvchx.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"asFL4Ak+lFnt3irC2W9AJIiG6pSp8sT/T4IpSaf1B+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y54avfvchx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-asFL4Ak+lFnt3irC2W9AJIiG6pSp8sT/T4IpSaf1B+c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/5.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G9Xl9Fkg0iYik0m7nF8Qa3YBhET5k72Bl45ShdoBVAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G9Xl9Fkg0iYik0m7nF8Qa3YBhET5k72Bl45ShdoBVAI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/5.r86ixtt3nc.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G9Xl9Fkg0iYik0m7nF8Qa3YBhET5k72Bl45ShdoBVAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r86ixtt3nc"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G9Xl9Fkg0iYik0m7nF8Qa3YBhET5k72Bl45ShdoBVAI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/9.b7d1yhw0bg.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6cDVuTjTIGLb1atLFyfkvUqHnoYYJWL5HxzQhZcwRaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7d1yhw0bg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cDVuTjTIGLb1atLFyfkvUqHnoYYJWL5HxzQhZcwRaw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/9.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6cDVuTjTIGLb1atLFyfkvUqHnoYYJWL5HxzQhZcwRaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6cDVuTjTIGLb1atLFyfkvUqHnoYYJWL5HxzQhZcwRaw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/avatar.c49o14hxil.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1DoOYTcZeSWZLRZxnPr3IuMZQzoVfLExW88oBetuNsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c49o14hxil"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/avatar.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1DoOYTcZeSWZLRZxnPr3IuMZQzoVfLExW88oBetuNsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/avatar.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1DoOYTcZeSWZLRZxnPr3IuMZQzoVfLExW88oBetuNsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1DoOYTcZeSWZLRZxnPr3IuMZQzoVfLExW88oBetuNsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/avatar2.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t7TAwXCYspU3De9OQozqVWN14FgEe7WDCMJV7Cwqv+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t7TAwXCYspU3De9OQozqVWN14FgEe7WDCMJV7Cwqv+Y="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/avatar2.zx72k7pe8r.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\avatar2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t7TAwXCYspU3De9OQozqVWN14FgEe7WDCMJV7Cwqv+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zx72k7pe8r"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/avatar2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t7TAwXCYspU3De9OQozqVWN14FgEe7WDCMJV7Cwqv+Y="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog4.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/BtMibKV+qYTlRiQu0ElYghfysPb9WA8ywnjMuoXZbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/BtMibKV+qYTlRiQu0ElYghfysPb9WA8ywnjMuoXZbA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog4.opui8m9wcb.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "145690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/BtMibKV+qYTlRiQu0ElYghfysPb9WA8ywnjMuoXZbA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "opui8m9wcb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/blog4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/BtMibKV+qYTlRiQu0ElYghfysPb9WA8ywnjMuoXZbA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog5.9urtbls667.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy60W7krAQfebV/ZdvWqGtPVLH7IuVf9TLV/zgnI0Co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9urtbls667"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/blog5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy60W7krAQfebV/ZdvWqGtPVLH7IuVf9TLV/zgnI0Co="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog5.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy60W7krAQfebV/ZdvWqGtPVLH7IuVf9TLV/zgnI0Co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy60W7krAQfebV/ZdvWqGtPVLH7IuVf9TLV/zgnI0Co="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog6.grasasq1ol.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hMBfM5AD8DyL691mlAVft1evc3aT7eBo0uAOGP+u2Qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "grasasq1ol"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/blog6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hMBfM5AD8DyL691mlAVft1evc3aT7eBo0uAOGP+u2Qs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog6.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hMBfM5AD8DyL691mlAVft1evc3aT7eBo0uAOGP+u2Qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hMBfM5AD8DyL691mlAVft1evc3aT7eBo0uAOGP+u2Qs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog8.ca0b8uwh4r.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFa41X6aZYkhgnMcq26dSvEYmT55D4eontm++CE9p5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ca0b8uwh4r"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/blog8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFa41X6aZYkhgnMcq26dSvEYmT55D4eontm++CE9p5s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog8.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NFa41X6aZYkhgnMcq26dSvEYmT55D4eontm++CE9p5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NFa41X6aZYkhgnMcq26dSvEYmT55D4eontm++CE9p5s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog9.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x+2Fu4AaV23UgVoCkoET8jRS4DCrzELjvnu5/BOM0Ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x+2Fu4AaV23UgVoCkoET8jRS4DCrzELjvnu5/BOM0Ig="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/blog9.l5jt4uhhh7.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\blog9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x+2Fu4AaV23UgVoCkoET8jRS4DCrzELjvnu5/BOM0Ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l5jt4uhhh7"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/blog9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x+2Fu4AaV23UgVoCkoET8jRS4DCrzELjvnu5/BOM0Ig="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/coffee.of4hj5ed4s.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\coffee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tHeYEPGJR2QlIhsdT2UbLHgiVwMhPXZpxWA/LptJlXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "of4hj5ed4s"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/coffee.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tHeYEPGJR2QlIhsdT2UbLHgiVwMhPXZpxWA/LptJlXA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/coffee.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\coffee.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tHeYEPGJR2QlIhsdT2UbLHgiVwMhPXZpxWA/LptJlXA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tHeYEPGJR2QlIhsdT2UbLHgiVwMhPXZpxWA/LptJlXA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/demo1.iyrh0rrnnv.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\demo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ymPtUQkJYtItrNbqBAoxQJ98yyPBVjg05jODAC8rIno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iyrh0rrnnv"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/demo1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ymPtUQkJYtItrNbqBAoxQJ98yyPBVjg05jODAC8rIno="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/demo1.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\demo1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ymPtUQkJYtItrNbqBAoxQJ98yyPBVjg05jODAC8rIno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ymPtUQkJYtItrNbqBAoxQJ98yyPBVjg05jODAC8rIno="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/home.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\home.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1XZ3PRh3+wvSDiDQj1iptmmjC3WnHIw0UKaMRkO+uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1XZ3PRh3+wvSDiDQj1iptmmjC3WnHIw0UKaMRkO+uA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/home.zftxqa0mbq.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\home.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1XZ3PRh3+wvSDiDQj1iptmmjC3WnHIw0UKaMRkO+uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zftxqa0mbq"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/home.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1XZ3PRh3+wvSDiDQj1iptmmjC3WnHIw0UKaMRkO+uA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/intro.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\intro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKmirA7s6acAWwPGZYt/H+GEyia6a+698oItxTWq7ic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKmirA7s6acAWwPGZYt/H+GEyia6a+698oItxTWq7ic="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/intro.oqzj2b245c.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\intro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "327600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sKmirA7s6acAWwPGZYt/H+GEyia6a+698oItxTWq7ic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oqzj2b245c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/intro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sKmirA7s6acAWwPGZYt/H+GEyia6a+698oItxTWq7ic="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/sal.1zbwtwidea.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\sal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nSEx0AMs1wJqxumJjquq0SiUsCDAqwVQXTt6Cv9yUv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1zbwtwidea"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/sal.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nSEx0AMs1wJqxumJjquq0SiUsCDAqwVQXTt6Cv9yUv0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/sal.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\sal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nSEx0AMs1wJqxumJjquq0SiUsCDAqwVQXTt6Cv9yUv0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nSEx0AMs1wJqxumJjquq0SiUsCDAqwVQXTt6Cv9yUv0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/slide1.5e4mp15snt.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5MPC2IxoROV2BbWqvSpqHQvAyALvxJ6vc9oX5IopvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5e4mp15snt"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/slide1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5MPC2IxoROV2BbWqvSpqHQvAyALvxJ6vc9oX5IopvI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/slide1.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q5MPC2IxoROV2BbWqvSpqHQvAyALvxJ6vc9oX5IopvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q5MPC2IxoROV2BbWqvSpqHQvAyALvxJ6vc9oX5IopvI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/slide2.5hhbdjxabb.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ORYWBSHi/0EEclALG9FfrCXaD33N9NMNkdGzlE6WtcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5hhbdjxabb"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/slide2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ORYWBSHi/0EEclALG9FfrCXaD33N9NMNkdGzlE6WtcY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/slide2.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ORYWBSHi/0EEclALG9FfrCXaD33N9NMNkdGzlE6WtcY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ORYWBSHi/0EEclALG9FfrCXaD33N9NMNkdGzlE6WtcY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/slide3.27asc4bbn3.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YlGomAFmEOvNBk8noobOEp3jnjdUh2D50YMt6zVHxl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27asc4bbn3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/demo/slide3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlGomAFmEOvNBk8noobOEp3jnjdUh2D50YMt6zVHxl8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/demo/slide3.jpg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\slide3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YlGomAFmEOvNBk8noobOEp3jnjdUh2D50YMt6zVHxl8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlGomAFmEOvNBk8noobOEp3jnjdUh2D50YMt6zVHxl8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/favicon.ico",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oYaequgE4HSa9/ZdfyY6CErV61KE++QovjcL0P5Y+uw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oYaequgE4HSa9/ZdfyY6CErV61KE++QovjcL0P5Y+uw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/favicon.vkveutzh4b.ico",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oYaequgE4HSa9/ZdfyY6CErV61KE++QovjcL0P5Y+uw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vkveutzh4b"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oYaequgE4HSa9/ZdfyY6CErV61KE++QovjcL0P5Y+uw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_having_fun_iais.o22cic7r7c.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_having_fun_iais.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gMfWQUwnFDhDOmdINx6sdrKvK+Yu4hi+fwrpXkrEdtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o22cic7r7c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/sample/undraw_having_fun_iais.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMfWQUwnFDhDOmdINx6sdrKvK+Yu4hi+fwrpXkrEdtE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_having_fun_iais.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_having_fun_iais.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gMfWQUwnFDhDOmdINx6sdrKvK+Yu4hi+fwrpXkrEdtE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gMfWQUwnFDhDOmdINx6sdrKvK+Yu4hi+fwrpXkrEdtE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_off_road_9oae.rw2u7j2gaa.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_off_road_9oae.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeJIm/L4/RPjUkhg1R0o08Mnz3nxOo5EAKLeX95oaWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rw2u7j2gaa"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/sample/undraw_off_road_9oae.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeJIm/L4/RPjUkhg1R0o08Mnz3nxOo5EAKLeX95oaWU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_off_road_9oae.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_off_road_9oae.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xeJIm/L4/RPjUkhg1R0o08Mnz3nxOo5EAKLeX95oaWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xeJIm/L4/RPjUkhg1R0o08Mnz3nxOo5EAKLeX95oaWU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_QA_engineers_dg5p.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_QA_engineers_dg5p.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nwFHzimJ2/vIKa65Cn83NhG03HLD2VG3Y0F8PiBCNKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nwFHzimJ2/vIKa65Cn83NhG03HLD2VG3Y0F8PiBCNKM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_QA_engineers_dg5p.xkvmh5lyn2.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_QA_engineers_dg5p.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40546"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nwFHzimJ2/vIKa65Cn83NhG03HLD2VG3Y0F8PiBCNKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkvmh5lyn2"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/sample/undraw_QA_engineers_dg5p.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nwFHzimJ2/vIKa65Cn83NhG03HLD2VG3Y0F8PiBCNKM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_vehicle_sale_v7fm.pjia6un6f6.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_vehicle_sale_v7fm.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZWo3dcF9bAEI1i1JnNpbV4cYIimujkhQeV66IhGJNdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pjia6un6f6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/sample/undraw_vehicle_sale_v7fm.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZWo3dcF9bAEI1i1JnNpbV4cYIimujkhQeV66IhGJNdY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_vehicle_sale_v7fm.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_vehicle_sale_v7fm.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZWo3dcF9bAEI1i1JnNpbV4cYIimujkhQeV66IhGJNdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZWo3dcF9bAEI1i1JnNpbV4cYIimujkhQeV66IhGJNdY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_working_late_pukg.9x1f8n1nvo.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_working_late_pukg.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7RdDLICcXWo9qku9m0+iMCtjHT81AoVF+us4mBG/0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9x1f8n1nvo"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/sample/undraw_working_late_pukg.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7RdDLICcXWo9qku9m0+iMCtjHT81AoVF+us4mBG/0M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/sample/undraw_working_late_pukg.svg",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\sample\\undraw_working_late_pukg.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7RdDLICcXWo9qku9m0+iMCtjHT81AoVF+us4mBG/0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7RdDLICcXWo9qku9m0+iMCtjHT81AoVF+us4mBG/0M="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/screenshot-mundana-article.4f1pbg3hjy.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-article.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJHPtPLPBmbV9MAhluFcErHjRBOzyQYrHnB8hIGNtQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4f1pbg3hjy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/screenshot-mundana-article.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJHPtPLPBmbV9MAhluFcErHjRBOzyQYrHnB8hIGNtQs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/screenshot-mundana-article.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-article.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "267506"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kJHPtPLPBmbV9MAhluFcErHjRBOzyQYrHnB8hIGNtQs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kJHPtPLPBmbV9MAhluFcErHjRBOzyQYrHnB8hIGNtQs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/screenshot-mundana-category.moyo1fqnr4.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-category.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ap26BhOyXbvxHqJEb/GxCjeCGYTdM8+c91mA/66/rHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "moyo1fqnr4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/screenshot-mundana-category.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ap26BhOyXbvxHqJEb/GxCjeCGYTdM8+c91mA/66/rHI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/screenshot-mundana-category.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana-category.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ap26BhOyXbvxHqJEb/GxCjeCGYTdM8+c91mA/66/rHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ap26BhOyXbvxHqJEb/GxCjeCGYTdM8+c91mA/66/rHI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/screenshot-mundana.o32aa2dgji.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIvfThk6t4FNlztIa6DJ9lgAt4Ta1Bp9Yqr65vIyL8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o32aa2dgji"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/screenshot-mundana.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIvfThk6t4FNlztIa6DJ9lgAt4Ta1Bp9Yqr65vIyL8Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/screenshot-mundana.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\screenshot-mundana.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIvfThk6t4FNlztIa6DJ9lgAt4Ta1Bp9Yqr65vIyL8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIvfThk6t4FNlztIa6DJ9lgAt4Ta1Bp9Yqr65vIyL8Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/functions.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\functions.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GX2hLSVuARkLpYtzR5etAAinBUMzPTTOsQy5/isR3/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GX2hLSVuARkLpYtzR5etAAinBUMzPTTOsQy5/isR3/I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/functions.lhi2jsp5z3.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\functions.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GX2hLSVuARkLpYtzR5etAAinBUMzPTTOsQy5/isR3/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lhi2jsp5z3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/functions.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GX2hLSVuARkLpYtzR5etAAinBUMzPTTOsQy5/isR3/I="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/aos.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\aos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8mhhK6WerRskNTu3fWZ4O8xDWv8cIr5fk8QLrDhplo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8mhhK6WerRskNTu3fWZ4O8xDWv8cIr5fk8QLrDhplo4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/aos.ycyol4alxi.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\aos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8mhhK6WerRskNTu3fWZ4O8xDWv8cIr5fk8QLrDhplo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycyol4alxi"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/aos.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8mhhK6WerRskNTu3fWZ4O8xDWv8cIr5fk8QLrDhplo4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/bootstrap-toc.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap-toc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NnEeh5hWZzoLe9zXejoKO1WVbqjmEcf2gpdyve2GSCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NnEeh5hWZzoLe9zXejoKO1WVbqjmEcf2gpdyve2GSCk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/bootstrap-toc.y91jgtce6c.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap-toc.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NnEeh5hWZzoLe9zXejoKO1WVbqjmEcf2gpdyve2GSCk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y91jgtce6c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/bootstrap-toc.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NnEeh5hWZzoLe9zXejoKO1WVbqjmEcf2gpdyve2GSCk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/bootstrap.min.a8sno6uueg.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a8sno6uueg"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/bootstrap.min.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51039"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/jquery.min.2ye1g148en.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ye1g148en"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/jquery.min.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/popper.min.jics2szdot.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\popper.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pS96pU17yq+gVu4KBQJi38VpSuKN7otMrDQprzf/DWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jics2szdot"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/popper.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pS96pU17yq+gVu4KBQJi38VpSuKN7otMrDQprzf/DWY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/popper.min.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\popper.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pS96pU17yq+gVu4KBQJi38VpSuKN7otMrDQprzf/DWY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pS96pU17yq+gVu4KBQJi38VpSuKN7otMrDQprzf/DWY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/prism.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\prism.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nra51JfdRc6Y65U47bZyyWbFRX90lKGWskxDK+IOBnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nra51JfdRc6Y65U47bZyyWbFRX90lKGWskxDK+IOBnI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/prism.yc94h0lhp6.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\prism.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nra51JfdRc6Y65U47bZyyWbFRX90lKGWskxDK+IOBnI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yc94h0lhp6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/prism.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nra51JfdRc6Y65U47bZyyWbFRX90lKGWskxDK+IOBnI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/share.9xp9rs5763.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\share.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"feZldTMvFtxE3p2O+ECP33XQ915h7ADf/hKkEht0Jpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9xp9rs5763"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/js/vendor/share.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-feZldTMvFtxE3p2O+ECP33XQ915h7ADf/hKkEht0Jpo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/js/vendor/share.js",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\share.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"feZldTMvFtxE3p2O+ECP33XQ915h7ADf/hKkEht0Jpo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 14:07:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-feZldTMvFtxE3p2O+ECP33XQ915h7ADf/hKkEht0Jpo="
+        }
+      ]
+    },
+    {
+      "Route": "BlazingBlogs.bundle.scp.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingBlogs.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 15:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazingBlogs.isrgeocx32.bundle.scp.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazingBlogs.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 15:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "isrgeocx32"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazingBlogs.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazingBlogs.isrgeocx32.styles.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingBlogs.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 15:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "isrgeocx32"
+        },
+        {
+          "Name": "label",
+          "Value": "BlazingBlogs.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0="
+        }
+      ]
+    },
+    {
+      "Route": "BlazingBlogs.styles.css",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazingBlogs.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 15:00:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sh7YgFNi4546wkQ91ePC+66CvNx2dSFfniR8Ql0P5l0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 14:40:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Dec 2024 14:40:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
