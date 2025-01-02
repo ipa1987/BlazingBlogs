@@ -121,6 +121,9 @@
       <_ContentIncludedByDefault Remove="wwwroot\assets\scss\5-layout\_index.scss" />
       <_ContentIncludedByDefault Remove="wwwroot\assets\scss\5-layout\_layout.scss" />
       <_ContentIncludedByDefault Remove="wwwroot\assets\scss\main.scss" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\css\vendor\aos.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\css\vendor\bootstrap-toc.css" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\css\vendor\prism.css" />
     </ItemGroup>
 
 </Project>

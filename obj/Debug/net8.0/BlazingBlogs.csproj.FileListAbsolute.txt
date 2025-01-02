@@ -142,3 +142,4 @@ D:\coding\.net\BlazingBlogs\obj\Debug\net8.0\BlazingBlogs.genruntimeconfig.cache
 D:\coding\.net\BlazingBlogs\obj\Debug\net8.0\ref\BlazingBlogs.dll
 D:\coding\.net\BlazingBlogs\bin\Debug\net8.0\Npgsql.dll
 D:\coding\.net\BlazingBlogs\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\coding\.net\BlazingBlogs\obj\Debug\net8.0\BlazingBlogs.sourcelink.json

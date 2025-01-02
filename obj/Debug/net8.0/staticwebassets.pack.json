@@ -17,18 +17,6 @@
       "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
     },
     {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\aos.css",
-      "PackagePath": "staticwebassets\\assets\\css\\vendor\\aos.css"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\bootstrap-toc.css",
-      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap-toc.css"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\css\\vendor\\prism.css",
-      "PackagePath": "staticwebassets\\assets\\css\\vendor\\prism.css"
-    },
-    {
       "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\img\\demo\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\demo\\1.jpg"
     },
@@ -151,34 +139,6 @@
     {
       "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\functions.js",
       "PackagePath": "staticwebassets\\assets\\js\\functions.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\aos.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\aos.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap-toc.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap-toc.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\jquery.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.min.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\popper.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.min.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\prism.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\prism.js"
-    },
-    {
-      "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\assets\\js\\vendor\\share.js",
-      "PackagePath": "staticwebassets\\assets\\js\\vendor\\share.js"
     },
     {
       "Id": "D:\\coding\\.net\\BlazingBlogs\\wwwroot\\favicon.png",
